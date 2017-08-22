@@ -1,0 +1,75 @@
+Q:  What is JDK and what is it composed of? Define each components.
+A:  Java Development Kit. Composed of JRE, Compiler and Debugger. 
+        JRE - Java Runtime Environment
+        Compiler - Translates source code into byte code
+        Debugger - provides inspection and debugging
+
+Q:  What is IDE?
+A:  Integrated Development Environment.
+
+Q:  What are the IDE's available in market to support Java?
+A:  Eclipse, Intellij, Netbeans
+
+Q:  Explain the entire Java Life Cycle.
+A:  A java program will be written and them compiled by a Java Compiler. From there, it will turn it into a 
+    .class, which then goes through an interpreter. This translates the java code into binary machine code.
+    This is then outputted to the computer. 
+    
+Q:  What is class?
+A:  A blueprint for creating objects.
+
+Q:  What is an object?
+A:  An entity that has state and behavior.
+
+Q:  What is the entry point of an application?
+A:  The main method
+
+Q:  Why is main static?
+A:  Called by JVM before any objects are made. This makes it accessible for other classes.
+
+Q:  What is the difference between Interface and Abstract class?
+A:  You can only declare methods in an interface where as you can implement non-abstract methods
+    and declare abstract methods in abstract class.
+    
+Q:  Can you make an Object from an Interface and Abstract class? If not, how do you use it?
+
+Q:  What is Access Specifier?
+
+Q:  What is OOP? Define each feature of Java OOP.
+
+Q:  What is API? Name list of API that you have used so far.
+
+Q:  Does Java support multiple inheritance?
+
+Q:  What is method overloadding and when does it happen?
+
+Q:  What is method overriding and when does it happen?
+
+Q:  Explain exceptions in Java and how to handle it.
+
+Q:  What is static keyword in Java? How it has been used in variables and methods?
+
+Q:  What is final and how it has been used in variables and methods?
+
+Q:  What is final, finally, finalize?
+
+Q:  What is a constructor?
+
+Q:  What is 'this' keyword in Java?
+
+Q:  What is 'super' keyword in Java?
+
+Q:  What does JVM stand for?
+
+Q:  What version of Java are you using?
+
+Q:  What does JAR stand for?
+
+Q:  What is compile time and run time?
+
+Q:  What is heap?
+
+Q:  How does Java manage it's memory?
+
+Q:  What is the difference between String, StringBuffer and StringBuilder?
+
